@@ -1,0 +1,5 @@
+# Only the reviewed portfolio documents may be committed.
+*
+!README.md
+!.gitignore
+!.gitattributes
